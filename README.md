@@ -6,13 +6,16 @@ In this project I created a weather app in Android Studio that utilized the OneC
 
 I used .xml files to create the layouts for each page. I constructed a main page to display current condidtions in Austin. Additionally, I designed 2 buttons to take the uesr to pages to display hourly and weekly forecasts for Austin.
 
-Main Page:
+## Main Page:
+
 ![image](https://github.com/JakeLev01/AndroidWeatherApp/assets/73393909/51499bd5-f7b1-4dc6-9ece-8f1edcfd9561)
 
-Hourly Forecast:
+## Hourly Forecast:
+
 ![image](https://github.com/JakeLev01/AndroidWeatherApp/assets/73393909/61f299d6-5451-4d24-bb45-693599b6baa6)
 
-7 Day Forecast:
+## 7 Day Forecast:
+
 ![image](https://github.com/JakeLev01/AndroidWeatherApp/assets/73393909/9d8a650d-f4cd-4de0-ae37-73e546a17f6b)
 
 Skills learned/used: Java, Networking, Threading, XML design, API calls and usage
