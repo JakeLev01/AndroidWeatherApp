@@ -18,5 +18,5 @@ I used .xml files to create the layouts for each page. I constructed a main page
 
 ![image](https://github.com/JakeLev01/AndroidWeatherApp/assets/73393909/9d8a650d-f4cd-4de0-ae37-73e546a17f6b)
 
-Skills learned/used: Java, Networking, Threading, XML design, API calls and usage
+** Skills learned/used: Java, Networking, Threading, XML design, API calls and usage
 
